@@ -6,6 +6,8 @@ The text editor app will be a single-page application that meets the PWA criteri
 ## Usage
 Open Text-editor app and enter the notes you wish to write and it will be stored automatically.
 
+Click for [Text Editor](https://text-editor-app-1pe3.onrender.com)
+
 ![Demonstration of the application being used in the browser and then installed.](./Assets/00-demo.gif)
 
 ## Credits
